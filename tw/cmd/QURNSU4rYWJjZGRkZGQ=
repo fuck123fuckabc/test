@@ -1,1 +1,1 @@
-systeminfo
+whoami
