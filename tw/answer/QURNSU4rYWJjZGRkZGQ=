@@ -1,0 +1,73 @@
+
+主机名:           ADMIN
+OS 名称:          Microsoft Windows 10 企业版 LTSC
+OS 版本:          10.0.17763 暂缺 Build 17763
+OS 制造商:        Microsoft Corporation
+OS 配置:          独立工作站
+OS 构件类型:      Multiprocessor Free
+注册的所有人:     admin
+注册的组织:       暂缺
+产品 ID:          00425-00000-00002-AA578
+初始安装日期:     2020/3/13, 14:44:16
+系统启动时间:     2020/5/19, 8:53:45
+系统制造商:       LENOVO
+系统型号:         10C0A02RCD
+系统类型:         x64-based PC
+处理器:           安装了 1 个处理器。
+                  [01]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~2901 Mhz
+BIOS 版本:        LENOVO FCKT78AUS, 2016/5/10
+Windows 目录:     C:\WINDOWS
+系统目录:         C:\WINDOWS\system32
+启动设备:         \Device\HarddiskVolume5
+系统区域设置:     zh-cn;中文(中国)
+输入法区域设置:   zh-cn;中文(中国)
+时区:             (UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐
+物理内存总量:     7,881 MB
+可用的物理内存:   5,396 MB
+虚拟内存: 最大值: 9,161 MB
+虚拟内存: 可用:   5,513 MB
+虚拟内存: 使用中: 3,648 MB
+页面文件位置:     C:\pagefile.sys
+域:               WORKGROUP
+登录服务器:       \\ADMIN
+修补程序:         安装了 8 个修补程序。
+                  [01]: KB4552924
+                  [02]: KB4465065
+                  [03]: KB4470788
+                  [04]: KB4487038
+                  [05]: KB4537759
+                  [06]: KB4539571
+                  [07]: KB4549947
+                  [08]: KB4551853
+网卡:             安装了 4 个 NIC。
+                  [01]: Realtek PCIe GBE Family Controller
+                      连接名:      以太网
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 10.165.143.76
+                        [02]: fe80::aa:b4ca:b8ac:5eb9
+                  [02]: VMware Virtual Ethernet Adapter for VMnet1
+                      连接名:      VMware Network Adapter VMnet1
+                      启用 DHCP:   是
+                      DHCP 服务器: 192.168.3.254
+                      IP 地址
+                        [01]: 192.168.3.1
+                        [02]: fe80::21a2:a87a:1d8c:8ef8
+                  [03]: VMware Virtual Ethernet Adapter for VMnet8
+                      连接名:      VMware Network Adapter VMnet8
+                      启用 DHCP:   是
+                      DHCP 服务器: 192.168.111.254
+                      IP 地址
+                        [01]: 192.168.111.1
+                        [02]: fe80::1543:c13a:a111:f479
+                  [04]: Microsoft KM-TEST Loopback Adapter
+                      连接名:      Npcap Loopback Adapter
+                      启用 DHCP:   是
+                      DHCP 服务器: 255.255.255.255
+                      IP 地址
+                        [01]: 169.254.7.135
+                        [02]: fe80::3930:6630:650e:787
+Hyper-V 要求:     虚拟机监视器模式扩展: 是
+                  固件中已启用虚拟化: 是
+                  二级地址转换: 是
+                  数据执行保护可用: 是
